@@ -1,9 +1,4 @@
-**/.DS_Store
-nbproject
-manifest.mf
-build.xml
-
-.project
-.settings
-.idea/*
+# directories to ignore
 node_modules/
+build/
+app/css/
